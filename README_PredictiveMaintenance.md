@@ -1,6 +1,6 @@
 # Kestirimci Bakım — Makine Arıza Tahmini
 
-> 📌 Bu proje, Endüstri Mühendisliği lisans eğitimi kapsamında gerçekleştirilen staj hazırlık çalışmasının bir parçasıdır.
+Bu proje, Endüstri Mühendisliği lisans eğitimi kapsamında gerçekleştirilen staj hazırlık çalışmasının bir parçasıdır.
 
 ## Proje Hakkında
 
