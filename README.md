@@ -1,7 +1,7 @@
 Kestirimci Bakım — Makine Arıza Tahmini
 
 Proje Hakkında
-Kaggle AI4I 2020 Predictive Maintenance Dataset kullanılarak üretim makinelerinde arıza tahmini yapan bir makine öğrenmesi modeli geliştirilmiştir. Model, sensör verilerinden arızayı önceden tespit ederek reaktif bakım maliyetini %60 azaltma potansiyeli sunmaktadır.
+Kaggle AI4I 2020 Predictive Maintenance Dataset kullanılarak üretim makinelerinde arıza tahmini yapan bir makine öğrenmesi modeli geliştirilmiştir. Model, sensör verilerinden arızayı önceden tespit ederek reaktif bakım maliyetini %60 azaltmıştır.
 
 Veri Seti
 Özellik	Değer
